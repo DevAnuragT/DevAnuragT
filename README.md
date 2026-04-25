@@ -24,7 +24,7 @@ class Anurag {
     "📱 Crafting full-stack Flutter applications",
     "🌐 Building Go backends for mobile apps",
     "🤝 Contributing to Open Source (Talawa, Paintroid)",
-    "🧠 Integrating AI APIs (Gemini) into apps",
+    "🧠 Integrating AI APIs into apps",
   ];
 }
 ```
