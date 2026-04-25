@@ -18,7 +18,7 @@ class Anurag {
   final String name    = "Anurag Thakur";
   final String role    = "Mobile App Developer | Freelancer";
   final String college = "IIITM Gwalior — B.Tech IT";
-  final String focus   = "Building production-grade Flutter apps";
+  final String focus   = "Building production-grade apps";
 
   final List<String> currentlyDoing = [
     "📱 Crafting full-stack Flutter applications",
